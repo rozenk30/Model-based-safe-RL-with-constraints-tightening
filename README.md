@@ -1,8 +1,7 @@
 # Model-based-safe-RL-with-constraints-tightening
 Codes used for "Model-based safe reinforcement learning for nonlinear systems under uncertainty with constraints tightening approach"  
 
-Packages  
-
+# Packages  
 conda create -n environment python=3.7  
 pip install tensorflow==1.14  
 pip install pyomo  
